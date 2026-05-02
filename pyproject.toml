@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nofly-datasets"
+version = "0.1.0"
+description = "No-fly zones datasets and GeoJSON loaders."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Brandon Himpfen"}]
+dependencies = []
+keywords = ["geojson", "airspace", "uas", "drone", "datasets"]
+
+[project.scripts]
+nofly-datasets = "nofly_datasets.cli:main"
+
+[tool.setuptools]
+packages = ["nofly_datasets"]
