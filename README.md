@@ -1,5 +1,8 @@
 # nofly-datasets
 
+[![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
+[![DOI](https://zenodo.org/badge/1226996659.svg)](https://doi.org/10.5281/zenodo.19986889)
+
 No-fly zones datasets and loaders in GeoJSON format.
 
 This repository provides a small, source-traceable dataset package for restricted/no-fly airspace data, plus loaders for pulling larger operational datasets from public aviation data services.
