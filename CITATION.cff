@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "No-Fly Datasets"
+message: "If you use this dataset, please cite it using the metadata from this file."
+type: dataset
+
+authors:
+  - family-names: Himpfen
+    given-names: Brandon
+
+abstract: "A production-grade collection of real-world no-fly zone datasets in GeoJSON format, with loaders, validation tools, and reproducible data pipelines."
+
+keywords:
+  - no-fly zones
+  - aviation
+  - drone
+  - UAV
+  - GeoJSON
+  - geospatial data
+  - restricted airspace
+  - open data
+
+license: CC0-1.0
+
+repository-code: "https://github.com/brandonhimpfen/nofly-datasets"
+
+version: 1.0.0
+date-released: 2026-05-02
