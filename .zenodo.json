@@ -1,0 +1,30 @@
+{
+  "title": "No-Fly Datasets",
+  "description": "A production-grade collection of real-world no-fly zone datasets in GeoJSON format, with loaders, validation tools, and reproducible data pipelines.",
+  "creators": [
+    {
+      "name": "Himpfen, Brandon",
+      "affiliation": "Brandon Himpfen"
+    }
+  ],
+  "keywords": [
+    "no-fly zones",
+    "aviation",
+    "drone",
+    "UAV",
+    "GeoJSON",
+    "geospatial data",
+    "restricted airspace",
+    "open data"
+  ],
+  "license": "CC0-1.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/brandonhimpfen/nofly-datasets",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ]
+}
